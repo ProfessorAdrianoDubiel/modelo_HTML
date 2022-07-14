@@ -26,9 +26,11 @@ O link abaixo direciona para a página que contem diversas tags html.
 https://www.tc.df.gov.br/ice4/vordf/outros/html-comandos.html
 
 Esse outro link leva a um artigo da plataforma Alura a onde existem dicas preciosas de como escrever um bom readme.
+
 https://www.alura.com.br/artigos/escrever-bom-readme
 
 Este link contém códigos e mostruários de cores para HTML.
+
 https://htmlcolorcodes.com/color-names/
 
 <h3>index.html </h3>

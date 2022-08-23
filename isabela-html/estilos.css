@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
 	background: blanchedalmond;
 	text-align: center;
@@ -5,12 +11,24 @@ body{
 	margin-top: 60px;
 }
 
+.cabecalho {
+	margin-bottom: 40px;
+}
 .isabela {
 	align-content: center;
-	width: 250px;
-	border-radius: 50%;
+	width: 20%;
+	border-radius: 25%;
+	margin-bottom: 40px;
+	border: solid;
+	border-color: grey;
 }
 
 .biografia {
 	text-align: center;
+	justify-content: left;
+	display: inline-block;
+	vertical-align: top;
+	width: 60%;
+	margin-right: 2%;
+	margin-bottom: 1%;
 }
